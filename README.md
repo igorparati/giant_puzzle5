@@ -1,6 +1,8 @@
 # giant_puzzle5
 puzzle 5 - blackjack solution by @igorcmag
 
+simulated for 100 milions episodes for each soft value
+
 edge com soft = -1: 0.224658<br/>
 edge com soft = 0: 0.224539<br/>
 edge com soft = 1: 0.224514<br/>
@@ -24,3 +26,5 @@ edge com soft = 18: 0.0972418<br/>
 edge com soft = 19: 0.186387<br/>
 edge com soft = 20: 0.342996<br/>
 edge com soft = 21: 0.645732
+
+minimum: 5.6% for soft = 15
