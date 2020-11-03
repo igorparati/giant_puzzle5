@@ -1,5 +1,5 @@
 # giant_puzzle5
-puzzle 5 - blackjack solutrion by @igorcmag
+puzzle 5 - blackjack solution by @igorcmag
 
 edge com soft = -1: 0.224658<br/>
 edge com soft = 0: 0.224539<br/>
